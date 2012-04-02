@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GoogleMapActivity!</string>
+    <string name="app_name">GoogleMap</string>
+    <string name="map_api_key">0foGVbmrZxEiFkujcsiXP77fgQc4GLpucy1tHZw</string>
+</resources>
